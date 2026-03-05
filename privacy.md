@@ -5,7 +5,7 @@
 
 ## Information Collection
 
-This application does not collect, store, or process any personal data from Pinterest users or any other third-party users.
+This application does not collect, store, or process any personal data from Pinterest users or any other third-party users. Consequently, there are no user data retention or deletion policies, as no data is ever captured.
 
 ## Application Purpose
 
@@ -21,4 +21,4 @@ As no user data is collected, no user data is shared with or sold to third parti
 
 ## Contact
 
-For questions about this privacy policy, contact: [privacy@cultural-nexus.com](mailto:privacy@cultural-nexus.com)
+For questions about this privacy policy, contact: [culturalnexus.dev@gmail.com](mailto:culturalnexus.dev@gmail.com)
